@@ -1,0 +1,4 @@
+*.swp
+*~
+.*.haste_cache.*
+.DS_Store
